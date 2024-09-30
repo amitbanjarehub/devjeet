@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devjeet/static/css/main.e6c13ad2.css",
+    "main.js": "/devjeet/static/js/main.24035e6a.js",
+    "static/js/453.f7baeffc.chunk.js": "/devjeet/static/js/453.f7baeffc.chunk.js",
+    "index.html": "/devjeet/index.html",
+    "main.e6c13ad2.css.map": "/devjeet/static/css/main.e6c13ad2.css.map",
+    "main.24035e6a.js.map": "/devjeet/static/js/main.24035e6a.js.map",
+    "453.f7baeffc.chunk.js.map": "/devjeet/static/js/453.f7baeffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.24035e6a.js"
+  ]
+}
